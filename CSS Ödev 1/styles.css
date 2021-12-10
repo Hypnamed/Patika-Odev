@@ -1,0 +1,22 @@
+.baslik {
+    color: deeppink;
+}
+
+.menu {
+    color: black;
+}
+
+.menu>a {
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.anasayfa {
+    color: black;
+}
+
+.anamenu>ul {
+    color: black;
+    list-style-position: inside;
+}
