@@ -1,0 +1,31 @@
+.profil {
+    text-decoration: none;
+}
+
+.profil>img {
+    margin-top: 10px;
+    margin-right: 28px;
+    border-radius: 50%;
+}
+
+.profil>h4 {
+    margin-top: 5px;
+}
+
+.logo {
+    margin-top: 70px;
+    margin-bottom: 25px;
+}
+
+.arama {
+    resize: none;
+    
+}
+
+.butonlar {
+    margin-top: 10px;
+}
+
+.butonlar>button {
+    padding: 8px;
+}
