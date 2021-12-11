@@ -1,0 +1,17 @@
+.logo {
+    margin-top: 170px;
+    margin-bottom: 25px;
+}
+
+.arama {
+    resize: none;
+    
+}
+
+.butonlar {
+    margin-top: 10px;
+}
+
+.butonlar>button {
+    padding: 8px;
+}
