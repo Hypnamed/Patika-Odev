@@ -1,0 +1,59 @@
+.fa-home {
+    transition: all 0.4s ease;
+}
+
+.fa-home:hover {
+    color:coral
+}
+
+.fa-search {
+    transition: all 0.4s ease;
+}
+
+.fa-search:hover {
+    color:coral
+}
+
+.fa-facebook-messenger {
+    transition: all 0.4s ease;
+}
+
+.fa-facebook-messenger:hover {
+    color:coral
+}
+
+.fa-compass {
+    transition: all 0.4s ease;
+}
+
+.fa-compass:hover {
+    color:coral
+}
+
+.fa-heart {
+    transition: all 0.4s ease;
+}
+
+.fa-heart:hover {
+    color: coral
+}
+
+.fa-user-circle {
+    transition: all 0.4s ease;
+}
+
+.fa-user-circle:hover {
+    color:coral
+}
+
+.story {
+    border-radius: 75%; 
+    margin-top: 5px;
+    margin-left: 13.5px;
+}
+
+.storyalt {
+    font-size: 13px; 
+    margin-top: 8px;
+    padding-bottom: -25px;
+}
