@@ -47,13 +47,10 @@
 }
 
 .story {
-    border-radius: 75%; 
-    margin-top: 5px;
-    margin-left: 13.5px;
+    border-radius: 75%;
+    margin-top: 10px;
 }
 
 .storyalt {
-    font-size: 13px; 
-    margin-top: 8px;
-    padding-bottom: -25px;
+    font-weight:400;
 }
