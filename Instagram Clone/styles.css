@@ -54,3 +54,44 @@
 .storyalt {
     font-weight:400;
 }
+
+.profil {
+    float: left;
+    border-radius: 75%;
+    margin-top: 8px;
+}
+
+.profilalt {
+    margin-left: 10px;
+    align-items: center;
+}
+
+.postpfp {
+    float: left;
+    border-radius: 75%;
+    margin-top: 5px;
+}
+
+.postprofil {
+    padding-top: 8px;
+    margin-left: 35px;
+}
+
+.post {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.yorumalt {
+    margin-top: 15px;
+    margin-right: 5px;
+    font-weight: lighter;
+}
+
+.yorum {
+    font-weight: 400;
+}
+
+.etkilesim {
+    ;
+}
