@@ -49,6 +49,9 @@
 .story {
     border-radius: 75%;
     margin-top: 10px;
+    border-color: red;
+    border-style: solid;
+    border-width: 3px;
 }
 
 .storyalt {
@@ -93,5 +96,5 @@
 }
 
 .etkilesim {
-    ;
+    margin-right: 10px;
 }
