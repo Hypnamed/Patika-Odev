@@ -1,0 +1,1 @@
+document.getElementById("myName").innerHTML = prompt("Adınızı giriniz");
